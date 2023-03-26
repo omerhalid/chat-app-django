@@ -1,4 +1,4 @@
-Real-Time Chat Application Using Django
+#Real-Time Chat Application Using Django
 
 This is a simple real-time chat application built using Django and Django Channels that allows users to join a chat room and communicate with other users in real-time.
 Prerequisites
